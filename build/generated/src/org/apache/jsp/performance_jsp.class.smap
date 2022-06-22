@@ -1,0 +1,29 @@
+SMAP
+performance_jsp.java
+JSP
+*S JSP
+*F
++ 0 performance.jsp
+performance.jsp
++ 1 navbar.jsp
+navbar.jsp
++ 2 sidebarnav.jsp
+sidebarnav.jsp
+*L
+1,16:57
+16,22:73
+1#1,15:95
+16:110,3
+17,8:113
+37#0,8:121
+1#2,126:129
+44#0,28:254
+76,13:287
+88,2:300
+90:302,3
+91:305,5
+92,4:310,3
+96,2:322
+98,3:325
+100,23:328
+*E

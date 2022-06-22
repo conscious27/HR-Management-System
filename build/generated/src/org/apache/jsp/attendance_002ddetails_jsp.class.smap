@@ -1,0 +1,29 @@
+SMAP
+attendance_002ddetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 attendance-details.jsp
+attendance-details.jsp
++ 1 navbar.jsp
+navbar.jsp
++ 2 sidebarnav.jsp
+sidebarnav.jsp
+*L
+1,16:57
+16,22:73
+1#1,15:95
+16:110,3
+17,8:113
+37#0,8:121
+1#2,126:129
+44#0,26:254
+74,13:285
+86,2:298
+88:300,3
+89:303,5
+90,4:308,3
+94,2:320
+96,3:323
+98,23:326
+*E

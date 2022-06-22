@@ -1,0 +1,223 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4 Apr, 2022, 5:55:00 PM
+    Author     : chait
+*/
+
+
+
+
+        /* Injected CSS Code */
+        .form-all:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        .form-all {
+            width: 690px;
+        }
+
+        .form-label {
+            white-space: normal;
+        }
+        .form-label.form-label-auto {
+            display: block;
+            float: none;
+            word-break: break-word;
+            text-align: left;
+        }
+        .form-all {
+            font-size: 14px;
+        }
+        .form-label {
+            font-weight: bold;
+        }
+        /*
+        @width30: (unit(@formWidth, px) + 60px);
+        @width60: (unit(@formWidth, px)+ 120px);
+        @width90: (unit(@formWidth, px)+ 180px);
+        */
+        /* | */
+
+        /* | */
+.form-all,
+        .form-all {
+            background-color: #ffffff;
+            border: 1px solid transparent;
+        }
+        .form-header-group {
+            border-color: #e6e6e6;
+        }
+        .form-all {
+            color: #555555;
+        }
+        .form-header-group .form-header {
+            color: #555555;
+        }
+        .form-header-group .form-subHeader {
+            color: #6f6f6f;
+        }
+        .form-line.form-line-active {
+            -webkit-transition-property: all;
+            -moz-transition-property: all;
+            -ms-transition-property: all;
+            -o-transition-property: all;
+            transition-property: all;
+            -webkit-transition-duration: 0.3s;
+            -moz-transition-duration: 0.3s;
+            -ms-transition-duration: 0.3s;
+            -o-transition-duration: 0.3s;
+            transition-duration: 0.3s;
+            -webkit-transition-timing-function: ease;
+            -moz-transition-timing-function: ease;
+            -ms-transition-timing-function: ease;
+            -o-transition-timing-function: ease;
+            transition-timing-function: ease;
+            background-color: #ffffe0;
+        }
+
+        /* | */
+        .form-all {
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center top;
+            background-repeat: repeat;
+        }
+        .form-header-group {
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center top;
+        }
+        .form-line {
+            margin-top: 12px;
+            margin-bottom: 12px;
+        }
+        .form-line {
+            padding: 12px 36px;
+        }
+
+        .form-all .form-sub-label {
+            margin-left: 3px;
+        }
+        .form-all .form-textarea {
+            -webkit-border-radius: 6px;
+            -moz-border-radius: 6px;
+            border-radius: 6px;
+        }
+        .form-all .qq-upload-button,
+        .form-all .form-submit-button,
+        .form-all .form-submit-reset,
+        .form-all .form-submit-print {
+            font-size: 1em;
+            padding: 9px 15px;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+        }
+        .form-all .form-pagebreak-back,
+        .form-all .form-pagebreak-next {
+            font-size: 1em;
+            padding: 9px 15px;
+            font-family: "Lucida Grande", sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+        }
+        /*
+        & when ( @buttonFontType = google ) {
+                @import (css) "@{buttonFontLink}";
+        }
+        */
+        h2.form-header {
+            line-height: 1.618em;
+            font-size: 1.714em;
+        }
+        .form-header-group {
+            text-align: left;
+        }
+        .form-header-group {
+            font-family: "Lucida Grande", sans-serif;
+        }
+        .form-section {
+            padding: 0px 0px 0px 0px;
+        }
+        .form-header-group {
+            margin: 12px 36px 12px 36px;
+        }
+        .form-header-group {
+            padding: 24px 0px 24px 0px;
+        }
+        .form-header-group .form-header,
+        .form-header-group .form-subHeader {
+            color: #ffffff;
+        }
+        .form-header-group {
+            background-color: #ff8906;
+        }
+
+        [data-type="control_dropdown"] .form-input,
+        [data-type="control_dropdown"] .form-input-wide {
+            width: 150px;
+        }
+        .form-label {
+            font-family: "Lucida Grande", sans-serif;
+        }
+        .form-line-column {
+            width: auto;
+        }
+        .ie-8 .form-all {
+            margin-top: auto;
+            margin-top: initial;
+        }
+        .ie-8 .form-all:before {
+            display: none;
+        }
+        [data-type="control_clear"] {
+            display: none;
+        }
+        /* | */
+        @media screen and (max-width: 480px), screen and (max-device-width: 767px) and (orientation: portrait), screen and (max-device-width: 415px) and (orientation: landscape) {
+            .form-all {
+                border: 0;
+                max-width: initial;
+            }
+            .form-label {
+                width: 100% !important;
+            }
+            div.form-header-group {
+                padding: 24px 0px !important;
+                margin: 0 12px 2% !important;
+                margin-left: 5%!important;
+                margin-right: 5%!important;
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+            }
+            div.form-header-group.hasImage img {
+                max-width: 100%;
+            }
+            [data-type="control_button"] {
+                margin-bottom: 0 !important;
+            }
+        }
+        /* | */
+
+        /*__INSPECT_SEPERATOR__*/
+        .supernova .form-all, .form-all {
+            border : 6px solid #f25f4c;
+            border-radius : 21px;
+        }
+
+        .form-header-group {
+            border-radius : 10px;
+        }
+        
+        #feedback-ul{
+            list-style: none;
+        }
+
+
+        /* Injected CSS Code */

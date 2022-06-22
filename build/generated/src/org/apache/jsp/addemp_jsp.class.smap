@@ -1,0 +1,27 @@
+SMAP
+addemp_jsp.java
+JSP
+*S JSP
+*F
++ 0 addemp.jsp
+addemp.jsp
++ 1 navbar.jsp
+navbar.jsp
++ 2 sidebarnav-adjusted.jsp
+sidebarnav-adjusted.jsp
+*L
+1,10:52
+10,25:62
+1#1,15:87
+16:102,3
+17,8:105
+34#0,8:113
+1#2,114:121
+41#0,159:234
+200,3:394
+202,2:397
+204,2:399,3
+206,3:405
+209,3:409
+211,44:412
+*E

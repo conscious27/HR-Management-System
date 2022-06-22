@@ -1,0 +1,30 @@
+SMAP
+view_002dfeedback_jsp.java
+JSP
+*S JSP
+*F
++ 0 view-feedback.jsp
+view-feedback.jsp
++ 1 navbar.jsp
+navbar.jsp
++ 2 sidebarnav.jsp
+sidebarnav.jsp
+*L
+5,7:56
+15,16:62
+30,23:78
+1#1,15:101
+16:116,3
+17,8:119
+52#0,8:127
+1#2,126:135
+59#0,14:260
+73:274,3
+74,4:277
+78:281,3
+79,3:284
+82:287,3
+83,4:290
+87:294,3
+88,21:297
+*E

@@ -1,0 +1,32 @@
+SMAP
+searchresult_jsp.java
+JSP
+*S JSP
+*F
++ 0 searchresult.jsp
+searchresult.jsp
++ 1 navbar.jsp
+navbar.jsp
++ 2 sidebarnav.jsp
+sidebarnav.jsp
+*L
+5,8:57
+16,11:64
+26,25:75
+1#1,15:100
+16:115,3
+17,8:118
+50#0,8:126
+1#2,126:134
+57#0,20:259
+77,8:280
+84,2:288
+86:290,3
+87:293,5
+88,4:298,3
+92:310
+93,3:311,3
+96,3:320
+99,2:324
+100,23:326
+*E
